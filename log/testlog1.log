@@ -1,0 +1,180 @@
+2022-02-18 00:02:58,772 [main] INFO netBanking - opening URL
+2022-02-18 00:02:58,846 [main] INFO netBanking - username entered
+2022-02-18 00:02:58,905 [main] INFO netBanking - password entered
+2022-02-18 00:03:00,158 [main] INFO netBanking - login button clicked
+2022-02-18 00:03:00,165 [main] INFO netBanking - Login test Passed
+2022-02-18 00:04:10,403 [main] INFO netBanking - opening URL
+2022-02-18 00:04:10,478 [main] INFO netBanking - username entered
+2022-02-18 00:04:10,538 [main] INFO netBanking - password entered
+2022-02-18 00:04:11,604 [main] INFO netBanking - login button clicked
+2022-02-18 00:04:11,612 [main] INFO netBanking - Login test failed
+2022-02-18 00:04:47,162 [main] INFO netBanking - opening URL
+2022-02-18 00:04:47,245 [main] INFO netBanking - username entered
+2022-02-18 00:04:47,364 [main] INFO netBanking - password entered
+2022-02-18 00:04:51,507 [main] INFO netBanking - login button clicked
+2022-02-18 00:04:51,513 [main] INFO netBanking - Login test failed
+2022-02-18 22:50:03,322 [main] INFO netBanking - opening URL
+2022-02-18 22:50:03,482 [main] INFO netBanking - username entered
+2022-02-18 22:50:03,591 [main] INFO netBanking - password entered
+2022-02-18 22:50:04,447 [main] INFO netBanking - login button clicked
+2022-02-18 22:50:25,707 [main] INFO netBanking - opening URL
+2022-02-18 22:50:25,825 [main] INFO netBanking - username entered
+2022-02-18 22:50:25,945 [main] INFO netBanking - password entered
+2022-02-18 22:50:26,452 [main] INFO netBanking - login button clicked
+2022-02-18 22:53:08,952 [main] INFO netBanking - opening URL
+2022-02-18 22:53:09,087 [main] INFO netBanking - username entered
+2022-02-18 22:53:09,186 [main] INFO netBanking - password entered
+2022-02-18 22:53:09,726 [main] INFO netBanking - login button clicked
+2022-02-18 22:54:32,006 [main] INFO netBanking - opening URL
+2022-02-18 22:54:32,186 [main] INFO netBanking - username entered
+2022-02-18 22:54:32,286 [main] INFO netBanking - password entered
+2022-02-18 22:54:33,711 [main] INFO netBanking - login button clicked
+2022-02-18 22:54:33,723 [main] INFO netBanking - Login test failed
+2022-02-18 23:38:34,935 [main] INFO netBanking - opening URL
+2022-02-18 23:38:35,183 [main] INFO netBanking - username entered
+2022-02-18 23:38:35,304 [main] INFO netBanking - password entered
+2022-02-18 23:38:36,926 [main] INFO netBanking - login button clicked
+2022-02-18 23:38:36,942 [main] INFO netBanking - Login test failed
+2022-02-18 23:39:35,815 [main] INFO netBanking - opening URL
+2022-02-18 23:39:36,027 [main] INFO netBanking - username entered
+2022-02-18 23:39:36,178 [main] INFO netBanking - password entered
+2022-02-18 23:39:37,723 [main] INFO netBanking - login button clicked
+2022-02-18 23:39:37,734 [main] INFO netBanking - Login test Passed
+2022-02-18 23:42:52,816 [main] INFO netBanking - opening URL
+2022-02-18 23:42:52,990 [main] INFO netBanking - username entered
+2022-02-18 23:42:53,041 [main] INFO netBanking - password entered
+2022-02-18 23:42:55,668 [main] INFO netBanking - login button clicked
+2022-02-18 23:42:55,678 [main] INFO netBanking - Login test Passed
+2022-02-19 00:23:13,527 [main] INFO netBanking - opening URL
+2022-02-19 00:23:13,637 [main] INFO netBanking - username entered
+2022-02-19 00:23:13,703 [main] INFO netBanking - password entered
+2022-02-19 00:23:14,878 [main] INFO netBanking - login button clicked
+2022-02-19 00:23:14,884 [main] INFO netBanking - Login test Passed
+2022-02-19 10:36:22,517 [main] INFO netBanking - opening URL
+2022-02-19 10:36:22,784 [main] INFO netBanking - username entered
+2022-02-19 10:36:22,854 [main] INFO netBanking - password entered
+2022-02-19 10:36:24,068 [main] INFO netBanking - login button clicked
+2022-02-19 10:36:24,080 [main] INFO netBanking - Login test Passed
+2022-02-19 10:37:06,367 [main] INFO netBanking - opening URL
+2022-02-19 10:37:06,564 [main] INFO netBanking - username entered
+2022-02-19 10:37:06,637 [main] INFO netBanking - password entered
+2022-02-19 10:37:07,865 [main] INFO netBanking - login button clicked
+2022-02-19 10:37:08,097 [main] INFO netBanking - Login test failed
+2022-02-19 10:40:30,554 [main] INFO netBanking - opening URL
+2022-02-19 10:40:30,721 [main] INFO netBanking - username entered
+2022-02-19 10:40:30,800 [main] INFO netBanking - password entered
+2022-02-19 10:40:32,065 [main] INFO netBanking - login button clicked
+2022-02-19 10:40:32,560 [main] INFO netBanking - Login test failed
+2022-02-19 11:06:16,578 [main] INFO netBanking - opening URL
+2022-02-19 11:06:16,827 [main] INFO netBanking - username entered
+2022-02-19 11:06:16,899 [main] INFO netBanking - password entered
+2022-02-19 11:06:18,078 [main] INFO netBanking - login button clicked
+2022-02-19 11:06:18,330 [main] INFO netBanking - Login test failed
+2022-02-24 10:34:37,131 [main] INFO netBanking - opening URL
+2022-02-24 10:37:08,388 [main] INFO netBanking - opening URL
+2022-02-24 10:38:30,773 [main] INFO netBanking - opening URL
+2022-02-24 10:38:32,103 [main] INFO netBanking - user name provided
+2022-02-24 10:38:32,176 [main] INFO netBanking - Password provided
+2022-02-24 10:38:37,748 [main] INFO netBanking - Test Case passed
+2022-02-24 10:38:40,852 [main] INFO netBanking - user name provided
+2022-02-24 10:38:40,964 [main] INFO netBanking - Password provided
+2022-02-24 10:38:46,265 [main] INFO netBanking - user name provided
+2022-02-24 10:38:46,399 [main] INFO netBanking - Password provided
+2022-02-24 10:38:52,891 [main] INFO netBanking - user name provided
+2022-02-24 10:38:53,019 [main] INFO netBanking - Password provided
+2022-02-24 10:38:57,776 [main] INFO netBanking - Test Case passed
+2022-02-24 10:39:00,831 [main] INFO netBanking - user name provided
+2022-02-24 10:39:00,948 [main] INFO netBanking - Password provided
+2022-02-26 17:07:02,111 [main] INFO netBanking - opening URL
+2022-02-26 17:07:02,380 [main] INFO netBanking - username entered
+2022-02-26 17:07:02,512 [main] INFO netBanking - password entered
+2022-02-26 17:07:04,270 [main] INFO netBanking - login button clicked
+2022-02-26 17:07:07,398 [main] INFO netBanking - Providing User Information.......
+2022-02-26 17:13:22,231 [main] INFO netBanking - opening URL
+2022-02-26 17:13:22,538 [main] INFO netBanking - username entered
+2022-02-26 17:13:22,670 [main] INFO netBanking - password entered
+2022-02-26 17:13:24,454 [main] INFO netBanking - login button clicked
+2022-02-26 17:13:24,476 [main] INFO netBanking - Login test Passed
+2022-02-26 17:13:31,781 [main] INFO netBanking - opening URL
+2022-02-26 17:13:33,121 [main] INFO netBanking - user name provided
+2022-02-26 17:13:33,235 [main] INFO netBanking - Password provided
+2022-02-26 17:13:38,473 [main] INFO netBanking - Test Case passed
+2022-02-26 17:13:41,659 [main] INFO netBanking - user name provided
+2022-02-26 17:13:41,781 [main] INFO netBanking - Password provided
+2022-02-26 17:13:47,123 [main] INFO netBanking - user name provided
+2022-02-26 17:13:47,251 [main] INFO netBanking - Password provided
+2022-02-26 17:13:53,107 [main] INFO netBanking - user name provided
+2022-02-26 17:13:53,219 [main] INFO netBanking - Password provided
+2022-02-26 17:13:57,517 [main] INFO netBanking - Test Case passed
+2022-02-26 17:13:59,766 [main] INFO netBanking - user name provided
+2022-02-26 17:13:59,924 [main] INFO netBanking - Password provided
+2022-02-26 17:14:11,378 [main] INFO netBanking - opening URL
+2022-02-26 17:14:11,529 [main] INFO netBanking - username entered
+2022-02-26 17:14:11,648 [main] INFO netBanking - password entered
+2022-02-26 17:14:13,510 [main] INFO netBanking - login button clicked
+2022-02-26 17:14:16,631 [main] INFO netBanking - Providing User Information.......
+2022-02-26 23:02:41,040 [main] INFO netBanking - opening URL
+2022-02-26 23:02:41,134 [main] INFO netBanking - username entered
+2022-02-26 23:02:41,161 [main] INFO netBanking - password entered
+2022-02-26 23:02:46,021 [main] INFO netBanking - login button clicked
+2022-02-26 23:02:46,025 [main] INFO netBanking - Login test Passed
+2022-02-26 23:02:53,696 [main] INFO netBanking - opening URL
+2022-02-26 23:02:54,367 [main] INFO netBanking - user name provided
+2022-02-26 23:02:54,387 [main] INFO netBanking - Password provided
+2022-02-26 23:02:58,670 [main] INFO netBanking - Test Case passed
+2022-02-26 23:03:00,937 [main] INFO netBanking - user name provided
+2022-02-26 23:03:00,981 [main] INFO netBanking - Password provided
+2022-02-26 23:03:05,985 [main] INFO netBanking - user name provided
+2022-02-26 23:03:06,054 [main] INFO netBanking - Password provided
+2022-02-26 23:03:11,022 [main] INFO netBanking - user name provided
+2022-02-26 23:03:11,060 [main] INFO netBanking - Password provided
+2022-02-26 23:03:14,605 [main] INFO netBanking - Test Case passed
+2022-02-26 23:03:16,674 [main] INFO netBanking - user name provided
+2022-02-26 23:03:16,718 [main] INFO netBanking - Password provided
+2022-02-26 23:03:28,326 [main] INFO netBanking - opening URL
+2022-02-26 23:03:28,370 [main] INFO netBanking - username entered
+2022-02-26 23:03:28,389 [main] INFO netBanking - password entered
+2022-02-26 23:03:29,477 [main] INFO netBanking - login button clicked
+2022-02-26 23:42:31,480 [main] INFO netBanking - opening URL
+2022-02-26 23:42:31,605 [main] INFO netBanking - username entered
+2022-02-26 23:42:31,665 [main] INFO netBanking - password entered
+2022-02-26 23:42:33,447 [main] INFO netBanking - login button clicked
+2022-02-26 23:42:33,456 [main] INFO netBanking - Login test Passed
+2022-02-26 23:42:40,381 [main] INFO netBanking - opening URL
+2022-02-26 23:42:41,043 [main] INFO netBanking - user name provided
+2022-02-26 23:42:41,097 [main] INFO netBanking - Password provided
+2022-02-26 23:42:45,831 [main] INFO netBanking - Test Case passed
+2022-02-26 23:42:49,696 [main] INFO netBanking - user name provided
+2022-02-26 23:42:49,787 [main] INFO netBanking - Password provided
+2022-02-26 23:42:54,850 [main] INFO netBanking - user name provided
+2022-02-26 23:42:54,953 [main] INFO netBanking - Password provided
+2022-02-26 23:43:00,863 [main] INFO netBanking - user name provided
+2022-02-26 23:43:00,962 [main] INFO netBanking - Password provided
+2022-02-26 23:43:05,374 [main] INFO netBanking - Test Case passed
+2022-02-26 23:43:07,312 [main] INFO netBanking - user name provided
+2022-02-26 23:43:07,410 [main] INFO netBanking - Password provided
+2022-02-26 23:43:18,550 [main] INFO netBanking - opening URL
+2022-02-26 23:43:18,618 [main] INFO netBanking - username entered
+2022-02-26 23:43:18,683 [main] INFO netBanking - password entered
+2022-02-26 23:43:21,104 [main] INFO netBanking - login button clicked
+2022-02-26 23:43:24,153 [main] INFO netBanking - Providing User Information.......
+2022-03-14 17:44:08,519 [main] INFO netBanking - opening URL
+2022-03-14 17:44:08,775 [main] INFO netBanking - username entered
+2022-03-14 17:44:08,896 [main] INFO netBanking - password entered
+2022-03-14 17:44:09,387 [main] INFO netBanking - login button clicked
+2022-03-14 17:44:20,321 [main] INFO netBanking - opening URL
+2022-03-14 17:44:21,542 [main] INFO netBanking - user name provided
+2022-03-14 17:44:21,699 [main] INFO netBanking - Password provided
+2022-03-14 17:44:28,168 [main] INFO netBanking - user name provided
+2022-03-14 17:44:28,265 [main] INFO netBanking - Password provided
+2022-03-14 17:44:43,691 [main] INFO netBanking - Test Case passed
+2022-03-14 17:44:53,885 [main] INFO netBanking - user name provided
+2022-03-14 17:44:53,977 [main] INFO netBanking - Password provided
+2022-03-14 17:45:01,960 [main] INFO netBanking - user name provided
+2022-03-14 17:45:02,092 [main] INFO netBanking - Password provided
+2022-03-14 17:45:09,858 [main] INFO netBanking - user name provided
+2022-03-14 17:45:09,957 [main] INFO netBanking - Password provided
+2022-03-14 17:45:29,787 [main] INFO netBanking - opening URL
+2022-03-14 17:45:29,948 [main] INFO netBanking - username entered
+2022-03-14 17:45:30,066 [main] INFO netBanking - password entered
+2022-03-14 17:45:30,540 [main] INFO netBanking - login button clicked

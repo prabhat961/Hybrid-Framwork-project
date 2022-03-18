@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [inetBanking_V1]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.netBanking.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="BankingApp Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.netBanking.testCases.LoginPageTestDDT">
+        <methods>
+          <include name="setup"/>
+          <include name="loginDDT" invocation-numbers="0 1 2 3 4"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.netBanking.testCases.LoginPageTestDDT -->
+      <class name="com.netBanking.testCases.LoginPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="loginTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.netBanking.testCases.LoginPageTest -->
+      <class name="com.netBanking.testCases.AddCustomerTest">
+        <methods>
+          <include name="setup"/>
+          <include name="addNewCustomer"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.netBanking.testCases.AddCustomerTest -->
+    </classes>
+  </test> <!-- BankingApp Test(failed) -->
+</suite> <!-- Failed suite [inetBanking_V1] -->
